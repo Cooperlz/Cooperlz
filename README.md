@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cooperlz
 - I'm a student at MiraCosta college in Oceanside, California!
-- I'm working towards a major in Computer Engineering!
+- I'm working towards a major in Computer Science!
 - I'm exctited to learn more and looking forward to working on exciting and important projects soon!
 
 <!---
